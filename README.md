@@ -5,7 +5,6 @@ A full-stack collaborative document editor built with React, Node.js, Socket.IO,
 ---
 
 ## Project Structure
-
 ```
 doclify/
 ├── backend/                  # Node.js + Express + Socket.IO
